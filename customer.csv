@@ -1,0 +1,2163 @@
+Customer_Age,Age_Group,Customer_Gender,state_id
+19,Youth (<25),M,0
+49,Adults (35-64),M,1
+47,Adults (35-64),F,1
+47,Adults (35-64),F,2
+35,Adults (35-64),M,2
+32,Young Adults (25-34),F,2
+34,Young Adults (25-34),M,2
+29,Young Adults (25-34),M,0
+51,Adults (35-64),M,3
+49,Adults (35-64),M,0
+48,Adults (35-64),F,0
+47,Adults (35-64),F,0
+32,Young Adults (25-34),F,3
+34,Young Adults (25-34),M,0
+43,Adults (35-64),F,4
+61,Adults (35-64),M,4
+57,Adults (35-64),M,0
+29,Young Adults (25-34),F,0
+38,Adults (35-64),M,5
+52,Adults (35-64),F,6
+43,Adults (35-64),F,7
+24,Youth (<25),F,8
+23,Youth (<25),M,4
+29,Young Adults (25-34),F,9
+32,Young Adults (25-34),M,10
+19,Youth (<25),F,5
+26,Young Adults (25-34),F,0
+35,Adults (35-64),M,0
+38,Adults (35-64),F,4
+54,Adults (35-64),F,8
+51,Adults (35-64),F,11
+47,Adults (35-64),F,4
+46,Adults (35-64),M,11
+46,Adults (35-64),M,4
+41,Adults (35-64),F,12
+32,Young Adults (25-34),M,11
+32,Young Adults (25-34),M,4
+33,Young Adults (25-34),F,0
+42,Adults (35-64),M,4
+42,Adults (35-64),M,3
+43,Adults (35-64),F,11
+45,Adults (35-64),F,11
+53,Adults (35-64),M,9
+21,Youth (<25),F,2
+34,Young Adults (25-34),F,1
+22,Youth (<25),F,4
+67,Seniors (64+),F,4
+31,Young Adults (25-34),M,11
+31,Young Adults (25-34),M,3
+37,Adults (35-64),M,10
+26,Young Adults (25-34),M,8
+87,Seniors (64+),F,5
+25,Young Adults (25-34),F,13
+31,Young Adults (25-34),F,14
+32,Young Adults (25-34),F,15
+25,Young Adults (25-34),M,0
+26,Young Adults (25-34),F,11
+33,Young Adults (25-34),M,8
+29,Young Adults (25-34),F,3
+24,Youth (<25),F,3
+31,Young Adults (25-34),M,4
+40,Adults (35-64),M,16
+44,Adults (35-64),M,1
+21,Youth (<25),F,0
+25,Young Adults (25-34),M,3
+25,Young Adults (25-34),M,4
+29,Young Adults (25-34),F,4
+55,Adults (35-64),F,11
+55,Adults (35-64),M,11
+55,Adults (35-64),M,3
+53,Adults (35-64),F,4
+50,Adults (35-64),F,11
+55,Adults (35-64),M,4
+59,Adults (35-64),F,11
+24,Youth (<25),M,1
+24,Youth (<25),F,2
+26,Young Adults (25-34),M,1
+26,Young Adults (25-34),M,2
+23,Youth (<25),M,5
+17,Youth (<25),M,9
+31,Young Adults (25-34),F,9
+32,Young Adults (25-34),F,11
+37,Adults (35-64),F,0
+49,Adults (35-64),M,2
+42,Adults (35-64),M,2
+35,Adults (35-64),F,8
+27,Young Adults (25-34),F,9
+28,Young Adults (25-34),F,13
+45,Adults (35-64),F,17
+50,Adults (35-64),M,12
+36,Adults (35-64),F,18
+44,Adults (35-64),M,4
+42,Adults (35-64),F,10
+29,Young Adults (25-34),M,3
+29,Young Adults (25-34),M,4
+31,Young Adults (25-34),M,0
+29,Young Adults (25-34),M,10
+41,Adults (35-64),M,0
+41,Adults (35-64),F,4
+32,Young Adults (25-34),F,12
+32,Young Adults (25-34),M,9
+32,Young Adults (25-34),F,13
+35,Adults (35-64),M,19
+53,Adults (35-64),F,17
+56,Adults (35-64),M,4
+24,Youth (<25),F,20
+35,Adults (35-64),F,1
+27,Young Adults (25-34),F,0
+31,Young Adults (25-34),F,0
+28,Young Adults (25-34),F,11
+28,Young Adults (25-34),F,1
+27,Young Adults (25-34),M,14
+31,Young Adults (25-34),F,8
+58,Adults (35-64),F,18
+30,Young Adults (25-34),M,4
+52,Adults (35-64),M,11
+51,Adults (35-64),M,0
+47,Adults (35-64),M,0
+45,Adults (35-64),M,0
+33,Young Adults (25-34),M,0
+33,Young Adults (25-34),M,11
+37,Adults (35-64),M,3
+59,Adults (35-64),M,21
+31,Young Adults (25-34),M,8
+31,Young Adults (25-34),F,3
+18,Youth (<25),F,12
+42,Adults (35-64),F,0
+32,Young Adults (25-34),M,17
+35,Adults (35-64),F,9
+21,Youth (<25),F,13
+28,Young Adults (25-34),F,9
+53,Adults (35-64),M,3
+45,Adults (35-64),F,0
+59,Adults (35-64),M,0
+40,Adults (35-64),F,13
+27,Young Adults (25-34),M,4
+30,Young Adults (25-34),F,4
+32,Young Adults (25-34),M,0
+33,Young Adults (25-34),M,3
+48,Adults (35-64),F,4
+46,Adults (35-64),F,4
+34,Young Adults (25-34),F,8
+19,Youth (<25),F,3
+34,Young Adults (25-34),F,0
+62,Adults (35-64),F,11
+45,Adults (35-64),M,2
+45,Adults (35-64),M,8
+41,Adults (35-64),M,8
+35,Adults (35-64),F,4
+25,Young Adults (25-34),M,14
+40,Adults (35-64),F,11
+40,Adults (35-64),F,0
+38,Adults (35-64),F,9
+29,Young Adults (25-34),F,22
+29,Young Adults (25-34),M,17
+51,Adults (35-64),M,4
+44,Adults (35-64),M,0
+39,Adults (35-64),M,0
+38,Adults (35-64),F,8
+19,Youth (<25),M,11
+62,Adults (35-64),F,4
+37,Adults (35-64),F,4
+43,Adults (35-64),F,0
+45,Adults (35-64),M,11
+26,Young Adults (25-34),M,9
+35,Adults (35-64),F,12
+29,Young Adults (25-34),M,9
+39,Adults (35-64),M,4
+17,Youth (<25),M,0
+61,Adults (35-64),M,0
+54,Adults (35-64),F,20
+48,Adults (35-64),F,9
+24,Youth (<25),M,2
+35,Adults (35-64),M,9
+49,Adults (35-64),M,18
+19,Youth (<25),M,4
+42,Adults (35-64),M,9
+44,Adults (35-64),F,23
+45,Adults (35-64),F,22
+27,Young Adults (25-34),M,6
+22,Youth (<25),M,23
+23,Youth (<25),F,9
+58,Adults (35-64),M,17
+18,Youth (<25),M,18
+23,Youth (<25),F,10
+46,Adults (35-64),M,1
+52,Adults (35-64),F,0
+47,Adults (35-64),F,9
+25,Young Adults (25-34),M,10
+49,Adults (35-64),F,9
+32,Young Adults (25-34),M,2
+36,Adults (35-64),M,4
+42,Adults (35-64),M,0
+34,Young Adults (25-34),M,5
+25,Young Adults (25-34),F,0
+39,Adults (35-64),M,6
+30,Young Adults (25-34),F,23
+54,Adults (35-64),F,0
+29,Young Adults (25-34),M,11
+31,Young Adults (25-34),F,11
+40,Adults (35-64),M,0
+25,Young Adults (25-34),M,24
+22,Youth (<25),F,5
+34,Young Adults (25-34),M,21
+33,Young Adults (25-34),M,2
+62,Adults (35-64),M,4
+42,Adults (35-64),M,17
+47,Adults (35-64),M,9
+26,Young Adults (25-34),M,0
+45,Adults (35-64),M,5
+22,Youth (<25),F,1
+57,Adults (35-64),M,11
+49,Adults (35-64),F,4
+61,Adults (35-64),M,11
+40,Adults (35-64),M,4
+38,Adults (35-64),M,4
+56,Adults (35-64),M,21
+36,Adults (35-64),M,11
+37,Adults (35-64),F,3
+43,Adults (35-64),M,3
+44,Adults (35-64),F,9
+45,Adults (35-64),F,9
+18,Youth (<25),F,9
+45,Adults (35-64),M,13
+59,Adults (35-64),M,18
+27,Young Adults (25-34),M,9
+39,Adults (35-64),F,2
+32,Young Adults (25-34),M,3
+35,Adults (35-64),M,4
+17,Youth (<25),M,11
+40,Adults (35-64),F,4
+40,Adults (35-64),M,11
+43,Adults (35-64),M,4
+48,Adults (35-64),M,3
+41,Adults (35-64),M,4
+34,Young Adults (25-34),F,3
+32,Young Adults (25-34),M,1
+18,Youth (<25),F,4
+24,Youth (<25),F,4
+53,Adults (35-64),F,0
+50,Adults (35-64),M,0
+40,Adults (35-64),F,24
+37,Adults (35-64),M,0
+59,Adults (35-64),M,4
+52,Adults (35-64),M,9
+44,Adults (35-64),F,4
+30,Young Adults (25-34),F,25
+33,Young Adults (25-34),M,7
+38,Adults (35-64),F,0
+24,Youth (<25),M,4
+25,Young Adults (25-34),F,4
+28,Young Adults (25-34),M,0
+28,Young Adults (25-34),F,0
+33,Young Adults (25-34),F,4
+36,Adults (35-64),F,11
+30,Young Adults (25-34),F,2
+34,Young Adults (25-34),F,11
+36,Adults (35-64),F,9
+26,Young Adults (25-34),F,8
+33,Young Adults (25-34),F,9
+19,Youth (<25),M,9
+23,Youth (<25),F,1
+24,Youth (<25),F,1
+25,Young Adults (25-34),M,1
+25,Young Adults (25-34),M,18
+26,Young Adults (25-34),F,1
+30,Young Adults (25-34),M,1
+32,Young Adults (25-34),F,1
+31,Young Adults (25-34),M,1
+44,Adults (35-64),F,18
+51,Adults (35-64),F,4
+64,Adults (35-64),F,4
+52,Adults (35-64),M,4
+54,Adults (35-64),F,9
+24,Youth (<25),M,9
+63,Adults (35-64),F,5
+33,Young Adults (25-34),M,12
+20,Youth (<25),F,5
+20,Youth (<25),F,9
+42,Adults (35-64),M,1
+37,Adults (35-64),M,2
+60,Adults (35-64),M,8
+58,Adults (35-64),M,1
+28,Young Adults (25-34),M,9
+28,Young Adults (25-34),F,21
+30,Young Adults (25-34),M,2
+36,Adults (35-64),M,1
+37,Adults (35-64),F,8
+45,Adults (35-64),F,3
+33,Young Adults (25-34),M,4
+36,Adults (35-64),F,4
+30,Young Adults (25-34),F,8
+41,Adults (35-64),M,11
+46,Adults (35-64),F,1
+44,Adults (35-64),M,13
+49,Adults (35-64),M,4
+39,Adults (35-64),F,9
+29,Young Adults (25-34),M,2
+44,Adults (35-64),M,6
+56,Adults (35-64),F,4
+58,Adults (35-64),M,2
+46,Adults (35-64),F,0
+34,Young Adults (25-34),M,4
+37,Adults (35-64),F,11
+59,Adults (35-64),M,11
+26,Young Adults (25-34),M,3
+30,Young Adults (25-34),M,0
+30,Young Adults (25-34),F,6
+84,Seniors (64+),F,9
+30,Young Adults (25-34),M,9
+36,Adults (35-64),F,12
+44,Adults (35-64),M,9
+23,Youth (<25),M,26
+32,Young Adults (25-34),F,8
+33,Young Adults (25-34),F,8
+31,Young Adults (25-34),F,1
+49,Adults (35-64),M,11
+34,Young Adults (25-34),M,1
+51,Adults (35-64),F,8
+34,Young Adults (25-34),M,19
+34,Young Adults (25-34),M,12
+22,Youth (<25),M,9
+35,Adults (35-64),M,5
+18,Youth (<25),M,13
+24,Youth (<25),M,22
+39,Adults (35-64),F,1
+26,Young Adults (25-34),F,13
+24,Youth (<25),M,0
+34,Young Adults (25-34),F,5
+34,Young Adults (25-34),M,8
+25,Young Adults (25-34),F,11
+51,Adults (35-64),M,2
+34,Young Adults (25-34),F,4
+25,Young Adults (25-34),M,9
+25,Young Adults (25-34),F,9
+25,Young Adults (25-34),M,13
+20,Youth (<25),F,17
+21,Youth (<25),F,23
+23,Youth (<25),M,27
+59,Adults (35-64),F,9
+50,Adults (35-64),F,0
+40,Adults (35-64),M,28
+43,Adults (35-64),M,9
+36,Adults (35-64),F,8
+56,Adults (35-64),M,0
+21,Youth (<25),M,4
+39,Adults (35-64),F,8
+31,Young Adults (25-34),F,4
+30,Young Adults (25-34),M,19
+21,Youth (<25),F,17
+22,Youth (<25),M,13
+50,Adults (35-64),F,3
+50,Adults (35-64),M,11
+47,Adults (35-64),F,11
+44,Adults (35-64),F,8
+50,Adults (35-64),M,1
+24,Youth (<25),M,10
+48,Adults (35-64),F,5
+58,Adults (35-64),M,11
+52,Adults (35-64),F,11
+44,Adults (35-64),M,8
+35,Adults (35-64),F,11
+61,Adults (35-64),F,4
+19,Youth (<25),M,6
+49,Adults (35-64),F,11
+20,Youth (<25),M,4
+41,Adults (35-64),F,11
+41,Adults (35-64),F,3
+37,Adults (35-64),M,11
+39,Adults (35-64),F,4
+31,Young Adults (25-34),M,2
+68,Seniors (64+),M,13
+38,Adults (35-64),M,9
+33,Young Adults (25-34),F,1
+23,Youth (<25),F,11
+41,Adults (35-64),M,1
+32,Young Adults (25-34),F,9
+18,Youth (<25),F,5
+19,Youth (<25),F,13
+52,Adults (35-64),F,14
+45,Adults (35-64),F,1
+35,Adults (35-64),F,0
+22,Youth (<25),M,10
+56,Adults (35-64),F,2
+24,Youth (<25),F,11
+27,Young Adults (25-34),F,5
+50,Adults (35-64),M,9
+22,Youth (<25),M,1
+44,Adults (35-64),M,11
+37,Adults (35-64),M,4
+60,Adults (35-64),F,1
+31,Young Adults (25-34),M,9
+22,Youth (<25),F,14
+60,Adults (35-64),F,10
+53,Adults (35-64),M,2
+50,Adults (35-64),F,1
+50,Adults (35-64),F,2
+49,Adults (35-64),F,2
+42,Adults (35-64),F,2
+41,Adults (35-64),M,18
+36,Adults (35-64),M,2
+37,Adults (35-64),F,18
+35,Adults (35-64),M,18
+40,Adults (35-64),M,2
+22,Youth (<25),F,11
+18,Youth (<25),F,3
+40,Adults (35-64),M,23
+41,Adults (35-64),M,12
+42,Adults (35-64),M,6
+42,Adults (35-64),F,5
+65,Seniors (64+),M,0
+64,Adults (35-64),M,11
+35,Adults (35-64),M,17
+36,Adults (35-64),M,13
+61,Adults (35-64),F,17
+35,Adults (35-64),M,29
+43,Adults (35-64),F,12
+57,Adults (35-64),M,6
+55,Adults (35-64),F,21
+55,Adults (35-64),M,9
+18,Youth (<25),F,18
+19,Youth (<25),F,8
+54,Adults (35-64),F,12
+37,Adults (35-64),F,7
+37,Adults (35-64),F,27
+37,Adults (35-64),F,24
+28,Young Adults (25-34),F,30
+43,Adults (35-64),F,21
+53,Adults (35-64),M,12
+52,Adults (35-64),F,10
+45,Adults (35-64),M,22
+45,Adults (35-64),M,21
+46,Adults (35-64),F,27
+46,Adults (35-64),M,6
+23,Youth (<25),F,8
+23,Youth (<25),M,1
+25,Young Adults (25-34),F,18
+24,Youth (<25),M,15
+24,Youth (<25),F,6
+23,Youth (<25),F,0
+33,Young Adults (25-34),F,6
+34,Young Adults (25-34),F,6
+20,Youth (<25),M,19
+20,Youth (<25),F,24
+20,Youth (<25),M,23
+22,Youth (<25),M,17
+23,Youth (<25),M,9
+22,Youth (<25),F,13
+30,Young Adults (25-34),M,26
+73,Seniors (64+),F,0
+29,Young Adults (25-34),M,1
+51,Adults (35-64),F,1
+48,Adults (35-64),M,1
+39,Adults (35-64),M,18
+62,Adults (35-64),F,2
+44,Adults (35-64),F,2
+18,Youth (<25),M,0
+53,Adults (35-64),M,4
+39,Adults (35-64),M,9
+40,Adults (35-64),F,14
+41,Adults (35-64),F,13
+41,Adults (35-64),F,14
+42,Adults (35-64),F,6
+59,Adults (35-64),M,3
+58,Adults (35-64),F,4
+34,Young Adults (25-34),M,13
+36,Adults (35-64),M,10
+39,Adults (35-64),F,5
+40,Adults (35-64),F,21
+42,Adults (35-64),M,13
+20,Youth (<25),M,8
+36,Adults (35-64),F,31
+27,Young Adults (25-34),F,30
+53,Adults (35-64),M,32
+52,Adults (35-64),M,22
+52,Adults (35-64),F,5
+51,Adults (35-64),F,31
+51,Adults (35-64),M,12
+43,Adults (35-64),M,25
+46,Adults (35-64),F,24
+46,Adults (35-64),M,22
+48,Adults (35-64),M,14
+49,Adults (35-64),M,10
+21,Youth (<25),F,8
+23,Youth (<25),M,23
+24,Youth (<25),F,5
+24,Youth (<25),F,9
+25,Young Adults (25-34),F,14
+27,Young Adults (25-34),M,5
+26,Young Adults (25-34),M,13
+29,Young Adults (25-34),M,5
+33,Young Adults (25-34),F,14
+31,Young Adults (25-34),M,24
+31,Young Adults (25-34),F,17
+33,Young Adults (25-34),F,23
+22,Youth (<25),F,9
+41,Adults (35-64),M,14
+59,Adults (35-64),F,22
+58,Adults (35-64),M,10
+57,Adults (35-64),M,22
+57,Adults (35-64),F,13
+57,Adults (35-64),M,9
+58,Adults (35-64),F,9
+56,Adults (35-64),F,6
+56,Adults (35-64),F,17
+55,Adults (35-64),F,17
+19,Youth (<25),F,2
+21,Youth (<25),M,1
+39,Adults (35-64),M,32
+37,Adults (35-64),M,9
+37,Adults (35-64),M,12
+37,Adults (35-64),F,5
+27,Young Adults (25-34),M,23
+28,Young Adults (25-34),F,27
+28,Young Adults (25-34),M,17
+45,Adults (35-64),F,31
+29,Young Adults (25-34),M,31
+48,Adults (35-64),M,22
+50,Adults (35-64),F,19
+50,Adults (35-64),F,28
+50,Adults (35-64),M,17
+50,Adults (35-64),F,6
+21,Youth (<25),F,26
+23,Youth (<25),M,10
+23,Youth (<25),F,7
+23,Youth (<25),F,17
+23,Youth (<25),F,22
+23,Youth (<25),M,22
+23,Youth (<25),F,5
+17,Youth (<25),F,13
+17,Youth (<25),M,19
+17,Youth (<25),M,5
+17,Youth (<25),F,6
+25,Young Adults (25-34),M,19
+25,Young Adults (25-34),F,25
+25,Young Adults (25-34),F,21
+26,Young Adults (25-34),F,14
+26,Young Adults (25-34),F,6
+27,Young Adults (25-34),F,24
+27,Young Adults (25-34),F,6
+29,Young Adults (25-34),F,10
+29,Young Adults (25-34),M,22
+29,Young Adults (25-34),F,5
+31,Young Adults (25-34),M,23
+31,Young Adults (25-34),M,19
+31,Young Adults (25-34),M,14
+32,Young Adults (25-34),M,12
+33,Young Adults (25-34),F,12
+20,Youth (<25),M,21
+19,Youth (<25),M,13
+22,Youth (<25),F,17
+27,Young Adults (25-34),F,3
+28,Young Adults (25-34),M,26
+31,Young Adults (25-34),F,2
+40,Adults (35-64),F,18
+35,Adults (35-64),F,2
+56,Adults (35-64),F,1
+56,Adults (35-64),M,2
+54,Adults (35-64),M,0
+51,Adults (35-64),F,33
+48,Adults (35-64),M,0
+40,Adults (35-64),F,12
+41,Adults (35-64),F,10
+41,Adults (35-64),F,21
+41,Adults (35-64),M,13
+65,Seniors (64+),F,0
+64,Adults (35-64),M,0
+57,Adults (35-64),F,3
+47,Adults (35-64),F,3
+46,Adults (35-64),M,3
+40,Adults (35-64),M,10
+42,Adults (35-64),F,13
+51,Adults (35-64),M,10
+33,Young Adults (25-34),F,3
+60,Adults (35-64),F,0
+58,Adults (35-64),F,0
+40,Adults (35-64),M,9
+41,Adults (35-64),F,23
+60,Adults (35-64),M,9
+37,Adults (35-64),F,21
+39,Adults (35-64),F,12
+39,Adults (35-64),M,13
+27,Young Adults (25-34),F,21
+28,Young Adults (25-34),F,19
+29,Young Adults (25-34),M,21
+53,Adults (35-64),F,24
+52,Adults (35-64),M,17
+52,Adults (35-64),M,10
+51,Adults (35-64),M,21
+43,Adults (35-64),F,13
+45,Adults (35-64),F,5
+45,Adults (35-64),F,14
+46,Adults (35-64),M,28
+46,Adults (35-64),M,21
+46,Adults (35-64),M,13
+46,Adults (35-64),F,9
+47,Adults (35-64),F,5
+48,Adults (35-64),M,7
+48,Adults (35-64),M,21
+25,Young Adults (25-34),F,1
+26,Young Adults (25-34),M,18
+26,Young Adults (25-34),M,5
+42,Adults (35-64),M,11
+29,Young Adults (25-34),M,14
+30,Young Adults (25-34),M,12
+30,Young Adults (25-34),F,14
+33,Young Adults (25-34),M,14
+63,Adults (35-64),F,10
+33,Young Adults (25-34),M,28
+35,Adults (35-64),M,21
+25,Young Adults (25-34),F,3
+26,Young Adults (25-34),F,3
+28,Young Adults (25-34),M,3
+29,Young Adults (25-34),F,11
+53,Adults (35-64),M,1
+23,Youth (<25),M,11
+31,Young Adults (25-34),M,26
+55,Adults (35-64),F,1
+54,Adults (35-64),F,1
+27,Young Adults (25-34),M,24
+54,Adults (35-64),M,2
+28,Young Adults (25-34),F,32
+53,Adults (35-64),F,21
+45,Adults (35-64),M,24
+47,Adults (35-64),M,6
+48,Adults (35-64),M,9
+22,Youth (<25),F,18
+43,Adults (35-64),M,2
+21,Youth (<25),M,0
+42,Adults (35-64),M,18
+42,Adults (35-64),F,8
+50,Adults (35-64),M,3
+40,Adults (35-64),M,12
+63,Adults (35-64),F,4
+60,Adults (35-64),F,4
+36,Adults (35-64),F,23
+54,Adults (35-64),M,6
+30,Young Adults (25-34),F,0
+36,Adults (35-64),M,0
+28,Young Adults (25-34),M,8
+29,Young Adults (25-34),F,8
+25,Young Adults (25-34),M,31
+27,Young Adults (25-34),F,19
+26,Young Adults (25-34),F,7
+27,Young Adults (25-34),M,15
+30,Young Adults (25-34),F,9
+30,Young Adults (25-34),M,13
+30,Young Adults (25-34),M,21
+33,Young Adults (25-34),F,22
+20,Youth (<25),M,14
+22,Youth (<25),F,21
+24,Youth (<25),F,27
+22,Youth (<25),F,3
+29,Young Adults (25-34),M,6
+30,Young Adults (25-34),M,6
+31,Young Adults (25-34),F,5
+32,Young Adults (25-34),M,6
+19,Youth (<25),M,14
+19,Youth (<25),F,9
+23,Youth (<25),M,6
+28,Young Adults (25-34),M,6
+28,Young Adults (25-34),F,6
+53,Adults (35-64),M,17
+52,Adults (35-64),F,24
+52,Adults (35-64),F,9
+48,Adults (35-64),F,12
+21,Youth (<25),M,2
+23,Youth (<25),F,2
+54,Adults (35-64),F,11
+22,Youth (<25),M,3
+39,Adults (35-64),M,8
+36,Adults (35-64),M,8
+37,Adults (35-64),F,2
+49,Adults (35-64),F,34
+32,Young Adults (25-34),F,4
+57,Adults (35-64),F,10
+57,Adults (35-64),M,5
+54,Adults (35-64),M,22
+29,Young Adults (25-34),F,35
+30,Young Adults (25-34),M,11
+29,Young Adults (25-34),F,26
+29,Young Adults (25-34),F,2
+33,Young Adults (25-34),M,1
+33,Young Adults (25-34),M,26
+25,Young Adults (25-34),F,17
+26,Young Adults (25-34),M,30
+38,Adults (35-64),F,5
+28,Young Adults (25-34),M,21
+28,Young Adults (25-34),F,24
+52,Adults (35-64),M,24
+44,Adults (35-64),F,21
+23,Youth (<25),M,0
+38,Adults (35-64),F,2
+57,Adults (35-64),F,1
+47,Adults (35-64),M,11
+41,Adults (35-64),M,27
+41,Adults (35-64),F,5
+42,Adults (35-64),M,24
+41,Adults (35-64),M,17
+42,Adults (35-64),M,5
+26,Young Adults (25-34),F,4
+27,Young Adults (25-34),M,0
+36,Adults (35-64),F,0
+24,Youth (<25),M,14
+27,Young Adults (25-34),M,28
+26,Young Adults (25-34),M,24
+26,Young Adults (25-34),F,12
+26,Young Adults (25-34),M,21
+30,Young Adults (25-34),F,17
+31,Young Adults (25-34),F,27
+32,Young Adults (25-34),F,30
+34,Young Adults (25-34),F,9
+43,Adults (35-64),M,1
+32,Young Adults (25-34),F,5
+31,Young Adults (25-34),M,36
+48,Adults (35-64),F,2
+46,Adults (35-64),M,26
+56,Adults (35-64),F,9
+36,Adults (35-64),F,6
+39,Adults (35-64),M,22
+28,Young Adults (25-34),M,12
+53,Adults (35-64),F,9
+46,Adults (35-64),F,23
+50,Adults (35-64),F,14
+26,Young Adults (25-34),F,2
+56,Adults (35-64),M,11
+55,Adults (35-64),M,0
+54,Adults (35-64),F,3
+23,Youth (<25),M,37
+35,Adults (35-64),F,26
+61,Adults (35-64),M,8
+21,Youth (<25),M,11
+22,Youth (<25),M,4
+60,Adults (35-64),M,26
+60,Adults (35-64),F,8
+18,Youth (<25),F,0
+18,Youth (<25),F,11
+58,Adults (35-64),M,8
+57,Adults (35-64),M,1
+48,Adults (35-64),F,11
+47,Adults (35-64),M,3
+39,Adults (35-64),F,13
+40,Adults (35-64),M,13
+41,Adults (35-64),M,9
+65,Seniors (64+),M,11
+65,Seniors (64+),M,4
+62,Adults (35-64),M,20
+61,Adults (35-64),F,11
+60,Adults (35-64),F,11
+57,Adults (35-64),M,3
+29,Young Adults (25-34),F,38
+53,Adults (35-64),F,1
+52,Adults (35-64),M,8
+28,Young Adults (25-34),M,11
+28,Young Adults (25-34),M,4
+36,Adults (35-64),F,33
+26,Young Adults (25-34),F,23
+51,Adults (35-64),M,11
+42,Adults (35-64),M,19
+43,Adults (35-64),M,13
+53,Adults (35-64),F,14
+44,Adults (35-64),M,21
+43,Adults (35-64),M,14
+46,Adults (35-64),M,14
+47,Adults (35-64),F,10
+48,Adults (35-64),M,5
+48,Adults (35-64),M,13
+49,Adults (35-64),F,5
+49,Adults (35-64),M,9
+27,Young Adults (25-34),M,26
+39,Adults (35-64),F,3
+68,Seniors (64+),M,11
+34,Young Adults (25-34),F,18
+34,Young Adults (25-34),F,2
+21,Youth (<25),M,3
+21,Youth (<25),F,3
+19,Youth (<25),F,0
+19,Youth (<25),F,11
+19,Youth (<25),M,3
+63,Adults (35-64),F,3
+63,Adults (35-64),M,4
+36,Adults (35-64),M,3
+36,Adults (35-64),F,3
+43,Adults (35-64),M,11
+60,Adults (35-64),M,3
+60,Adults (35-64),M,4
+60,Adults (35-64),M,0
+58,Adults (35-64),F,11
+43,Adults (35-64),M,8
+24,Youth (<25),M,11
+23,Youth (<25),F,3
+40,Adults (35-64),M,3
+40,Adults (35-64),F,3
+35,Adults (35-64),F,3
+55,Adults (35-64),F,0
+55,Adults (35-64),F,3
+36,Adults (35-64),M,9
+17,Youth (<25),F,2
+39,Adults (35-64),F,22
+28,Young Adults (25-34),M,14
+28,Young Adults (25-34),M,19
+45,Adults (35-64),M,10
+29,Young Adults (25-34),F,6
+32,Young Adults (25-34),F,28
+35,Adults (35-64),M,10
+35,Adults (35-64),F,5
+35,Adults (35-64),F,17
+26,Young Adults (25-34),M,11
+55,Adults (35-64),F,5
+19,Youth (<25),M,1
+54,Adults (35-64),M,14
+38,Adults (35-64),M,21
+30,Young Adults (25-34),M,36
+30,Young Adults (25-34),F,12
+34,Young Adults (25-34),F,14
+37,Adults (35-64),F,39
+46,Adults (35-64),F,11
+46,Adults (35-64),F,3
+45,Adults (35-64),M,4
+40,Adults (35-64),F,5
+41,Adults (35-64),F,22
+42,Adults (35-64),M,23
+42,Adults (35-64),F,14
+53,Adults (35-64),M,14
+44,Adults (35-64),M,7
+45,Adults (35-64),M,9
+46,Adults (35-64),M,5
+47,Adults (35-64),M,13
+49,Adults (35-64),F,13
+26,Young Adults (25-34),F,18
+33,Young Adults (25-34),F,11
+39,Adults (35-64),F,0
+27,Young Adults (25-34),M,1
+28,Young Adults (25-34),F,18
+35,Adults (35-64),M,8
+39,Adults (35-64),M,1
+41,Adults (35-64),F,1
+55,Adults (35-64),M,8
+55,Adults (35-64),F,2
+21,Youth (<25),F,4
+35,Adults (35-64),M,40
+20,Youth (<25),F,3
+42,Adults (35-64),F,1
+23,Youth (<25),M,3
+36,Adults (35-64),M,41
+54,Adults (35-64),M,11
+54,Adults (35-64),F,4
+25,Young Adults (25-34),F,40
+26,Young Adults (25-34),F,17
+22,Youth (<25),M,0
+28,Young Adults (25-34),F,8
+28,Young Adults (25-34),M,1
+30,Young Adults (25-34),F,26
+58,Adults (35-64),M,4
+18,Youth (<25),M,11
+45,Adults (35-64),F,18
+43,Adults (35-64),F,8
+40,Adults (35-64),F,23
+40,Adults (35-64),M,24
+43,Adults (35-64),M,5
+51,Adults (35-64),F,9
+44,Adults (35-64),F,22
+25,Young Adults (25-34),M,2
+27,Young Adults (25-34),F,1
+25,Young Adults (25-34),F,22
+25,Young Adults (25-34),F,27
+25,Young Adults (25-34),M,27
+26,Young Adults (25-34),F,10
+41,Adults (35-64),F,17
+43,Adults (35-64),F,5
+54,Adults (35-64),M,30
+54,Adults (35-64),F,6
+36,Adults (35-64),M,19
+37,Adults (35-64),M,23
+39,Adults (35-64),F,15
+46,Adults (35-64),M,23
+34,Young Adults (25-34),M,23
+34,Young Adults (25-34),M,22
+19,Youth (<25),M,23
+35,Adults (35-64),F,10
+35,Adults (35-64),M,13
+19,Youth (<25),M,17
+20,Youth (<25),M,22
+21,Youth (<25),F,6
+22,Youth (<25),F,24
+69,Seniors (64+),F,4
+38,Adults (35-64),M,12
+28,Young Adults (25-34),F,12
+30,Young Adults (25-34),F,5
+32,Young Adults (25-34),F,10
+32,Young Adults (25-34),F,22
+68,Seniors (64+),M,17
+68,Seniors (64+),F,10
+34,Young Adults (25-34),M,17
+31,Young Adults (25-34),F,13
+34,Young Adults (25-34),M,9
+38,Adults (35-64),M,3
+41,Adults (35-64),F,2
+41,Adults (35-64),F,8
+17,Youth (<25),F,3
+17,Youth (<25),M,4
+17,Youth (<25),M,3
+23,Youth (<25),F,4
+43,Adults (35-64),F,3
+57,Adults (35-64),F,4
+57,Adults (35-64),M,4
+49,Adults (35-64),F,1
+47,Adults (35-64),M,18
+47,Adults (35-64),M,2
+46,Adults (35-64),M,2
+46,Adults (35-64),M,18
+45,Adults (35-64),F,8
+40,Adults (35-64),M,18
+46,Adults (35-64),M,0
+40,Adults (35-64),M,6
+41,Adults (35-64),M,7
+42,Adults (35-64),F,9
+44,Adults (35-64),M,12
+49,Adults (35-64),M,17
+21,Youth (<25),M,18
+22,Youth (<25),F,2
+25,Young Adults (25-34),F,8
+27,Young Adults (25-34),F,8
+27,Young Adults (25-34),F,18
+24,Youth (<25),M,30
+19,Youth (<25),M,2
+30,Young Adults (25-34),M,8
+32,Young Adults (25-34),F,18
+48,Adults (35-64),M,2
+60,Adults (35-64),F,2
+51,Adults (35-64),F,18
+48,Adults (35-64),F,3
+57,Adults (35-64),F,11
+51,Adults (35-64),M,8
+20,Youth (<25),F,11
+20,Youth (<25),M,11
+48,Adults (35-64),F,1
+46,Adults (35-64),F,18
+17,Youth (<25),F,4
+45,Adults (35-64),F,2
+42,Adults (35-64),F,26
+41,Adults (35-64),M,3
+54,Adults (35-64),M,3
+52,Adults (35-64),F,4
+50,Adults (35-64),F,4
+47,Adults (35-64),M,4
+42,Adults (35-64),F,12
+43,Adults (35-64),F,9
+47,Adults (35-64),M,22
+48,Adults (35-64),F,10
+27,Young Adults (25-34),F,2
+34,Young Adults (25-34),M,3
+27,Young Adults (25-34),M,12
+39,Adults (35-64),F,11
+18,Youth (<25),M,1
+18,Youth (<25),F,1
+20,Youth (<25),F,8
+38,Adults (35-64),M,13
+37,Adults (35-64),M,14
+28,Young Adults (25-34),M,5
+35,Adults (35-64),M,12
+20,Youth (<25),F,15
+21,Youth (<25),M,21
+21,Youth (<25),F,14
+22,Youth (<25),M,5
+56,Adults (35-64),M,32
+55,Adults (35-64),M,14
+21,Youth (<25),F,1
+37,Adults (35-64),M,5
+39,Adults (35-64),M,10
+39,Adults (35-64),F,24
+28,Young Adults (25-34),F,17
+28,Young Adults (25-34),M,15
+30,Young Adults (25-34),F,10
+31,Young Adults (25-34),F,36
+32,Young Adults (25-34),F,21
+32,Young Adults (25-34),M,5
+33,Young Adults (25-34),M,32
+64,Adults (35-64),F,5
+64,Adults (35-64),F,21
+34,Young Adults (25-34),M,32
+20,Youth (<25),M,12
+20,Youth (<25),F,21
+21,Youth (<25),M,12
+22,Youth (<25),M,21
+22,Youth (<25),M,14
+17,Youth (<25),F,9
+69,Seniors (64+),M,4
+38,Adults (35-64),M,11
+28,Young Adults (25-34),F,2
+19,Youth (<25),F,4
+20,Youth (<25),M,42
+20,Youth (<25),M,3
+18,Youth (<25),M,4
+42,Adults (35-64),F,4
+62,Adults (35-64),M,3
+45,Adults (35-64),F,4
+60,Adults (35-64),M,11
+56,Adults (35-64),F,11
+51,Adults (35-64),M,1
+50,Adults (35-64),M,2
+48,Adults (35-64),M,8
+22,Youth (<25),M,11
+65,Seniors (64+),F,4
+55,Adults (35-64),F,4
+53,Adults (35-64),M,0
+40,Adults (35-64),M,5
+41,Adults (35-64),F,9
+44,Adults (35-64),F,5
+47,Adults (35-64),F,6
+49,Adults (35-64),M,13
+50,Adults (35-64),F,5
+24,Youth (<25),M,8
+63,Adults (35-64),M,3
+27,Young Adults (25-34),F,4
+30,Young Adults (25-34),M,3
+34,Young Adults (25-34),M,11
+19,Youth (<25),M,5
+25,Young Adults (25-34),M,5
+24,Youth (<25),M,31
+26,Young Adults (25-34),M,12
+67,Seniors (64+),M,4
+66,Seniors (64+),F,11
+53,Adults (35-64),F,11
+50,Adults (35-64),M,4
+49,Adults (35-64),M,3
+48,Adults (35-64),M,4
+45,Adults (35-64),M,3
+39,Adults (35-64),M,5
+53,Adults (35-64),M,10
+53,Adults (35-64),F,13
+52,Adults (35-64),F,12
+52,Adults (35-64),M,5
+51,Adults (35-64),M,14
+51,Adults (35-64),F,13
+43,Adults (35-64),M,7
+43,Adults (35-64),M,21
+45,Adults (35-64),M,36
+46,Adults (35-64),M,17
+46,Adults (35-64),M,12
+46,Adults (35-64),F,5
+49,Adults (35-64),F,22
+49,Adults (35-64),F,24
+49,Adults (35-64),F,17
+49,Adults (35-64),F,27
+49,Adults (35-64),F,12
+50,Adults (35-64),F,25
+50,Adults (35-64),M,6
+50,Adults (35-64),F,13
+63,Adults (35-64),F,11
+17,Youth (<25),F,21
+38,Adults (35-64),F,11
+38,Adults (35-64),F,3
+33,Young Adults (25-34),F,2
+32,Young Adults (25-34),M,8
+20,Youth (<25),F,4
+24,Youth (<25),F,0
+35,Adults (35-64),M,3
+62,Adults (35-64),F,3
+44,Adults (35-64),F,3
+44,Adults (35-64),F,0
+59,Adults (35-64),F,4
+20,Youth (<25),F,43
+41,Adults (35-64),M,2
+26,Young Adults (25-34),M,17
+68,Seniors (64+),F,4
+44,Adults (35-64),M,3
+36,Adults (35-64),F,21
+62,Adults (35-64),M,5
+61,Adults (35-64),F,5
+61,Adults (35-64),M,9
+43,Adults (35-64),F,6
+43,Adults (35-64),F,14
+17,Youth (<25),M,2
+37,Adults (35-64),F,22
+27,Young Adults (25-34),M,13
+28,Young Adults (25-34),M,22
+28,Young Adults (25-34),M,7
+75,Seniors (64+),M,12
+30,Young Adults (25-34),M,17
+30,Young Adults (25-34),M,14
+31,Young Adults (25-34),M,5
+31,Young Adults (25-34),F,12
+31,Young Adults (25-34),F,28
+32,Young Adults (25-34),M,32
+33,Young Adults (25-34),M,5
+33,Young Adults (25-34),M,13
+33,Young Adults (25-34),M,22
+32,Young Adults (25-34),M,21
+20,Youth (<25),M,13
+18,Youth (<25),F,23
+18,Youth (<25),F,13
+18,Youth (<25),M,21
+21,Youth (<25),M,9
+23,Youth (<25),M,14
+23,Youth (<25),M,13
+24,Youth (<25),F,14
+24,Youth (<25),M,3
+62,Adults (35-64),F,9
+40,Adults (35-64),F,9
+36,Adults (35-64),M,14
+37,Adults (35-64),F,14
+37,Adults (35-64),F,9
+28,Young Adults (25-34),M,29
+28,Young Adults (25-34),M,13
+29,Young Adults (25-34),F,14
+29,Young Adults (25-34),M,12
+29,Young Adults (25-34),F,17
+30,Young Adults (25-34),F,7
+31,Young Adults (25-34),M,7
+33,Young Adults (25-34),M,9
+31,Young Adults (25-34),F,10
+34,Young Adults (25-34),M,6
+35,Adults (35-64),M,22
+24,Youth (<25),M,12
+52,Adults (35-64),M,3
+49,Adults (35-64),F,3
+40,Adults (35-64),F,17
+40,Adults (35-64),M,30
+40,Adults (35-64),M,21
+42,Adults (35-64),F,21
+51,Adults (35-64),M,22
+51,Adults (35-64),F,5
+43,Adults (35-64),M,10
+48,Adults (35-64),F,25
+49,Adults (35-64),M,22
+36,Adults (35-64),F,1
+34,Young Adults (25-34),F,26
+35,Adults (35-64),M,1
+40,Adults (35-64),M,8
+21,Youth (<25),F,11
+20,Youth (<25),M,0
+38,Adults (35-64),F,1
+27,Young Adults (25-34),M,3
+28,Young Adults (25-34),F,4
+28,Young Adults (25-34),F,3
+30,Young Adults (25-34),F,3
+76,Seniors (64+),M,4
+25,Young Adults (25-34),M,12
+25,Young Adults (25-34),F,23
+26,Young Adults (25-34),M,7
+44,Adults (35-64),F,11
+42,Adults (35-64),F,3
+42,Adults (35-64),F,11
+46,Adults (35-64),F,2
+44,Adults (35-64),M,2
+38,Adults (35-64),M,8
+30,Young Adults (25-34),F,1
+29,Young Adults (25-34),F,1
+63,Adults (35-64),M,11
+32,Young Adults (25-34),F,26
+38,Adults (35-64),M,1
+40,Adults (35-64),F,10
+42,Adults (35-64),M,22
+42,Adults (35-64),M,12
+45,Adults (35-64),F,6
+23,Youth (<25),M,8
+23,Youth (<25),F,18
+56,Adults (35-64),F,0
+25,Young Adults (25-34),F,5
+26,Young Adults (25-34),M,28
+26,Young Adults (25-34),M,22
+66,Seniors (64+),M,0
+32,Young Adults (25-34),F,23
+31,Young Adults (25-34),M,21
+32,Young Adults (25-34),F,14
+34,Young Adults (25-34),F,24
+35,Adults (35-64),F,31
+60,Adults (35-64),F,9
+54,Adults (35-64),M,24
+18,Youth (<25),M,26
+38,Adults (35-64),F,12
+39,Adults (35-64),F,17
+37,Adults (35-64),M,13
+27,Young Adults (25-34),F,23
+78,Seniors (64+),F,9
+29,Young Adults (25-34),F,12
+31,Young Adults (25-34),M,17
+32,Young Adults (25-34),M,13
+33,Young Adults (25-34),M,23
+21,Youth (<25),M,5
+59,Adults (35-64),M,9
+56,Adults (35-64),M,9
+54,Adults (35-64),M,10
+20,Youth (<25),F,18
+20,Youth (<25),F,1
+54,Adults (35-64),F,5
+36,Adults (35-64),F,22
+29,Young Adults (25-34),F,19
+50,Adults (35-64),M,8
+47,Adults (35-64),M,8
+45,Adults (35-64),M,1
+29,Young Adults (25-34),M,8
+61,Adults (35-64),M,1
+22,Youth (<25),F,0
+60,Adults (35-64),M,1
+45,Adults (35-64),M,12
+22,Youth (<25),M,18
+59,Adults (35-64),F,0
+54,Adults (35-64),M,4
+24,Youth (<25),M,24
+26,Young Adults (25-34),F,9
+39,Adults (35-64),F,20
+32,Young Adults (25-34),F,0
+40,Adults (35-64),M,14
+26,Young Adults (25-34),M,26
+49,Adults (35-64),F,0
+52,Adults (35-64),F,8
+49,Adults (35-64),M,8
+47,Adults (35-64),F,8
+47,Adults (35-64),M,1
+30,Young Adults (25-34),F,11
+38,Adults (35-64),M,0
+28,Young Adults (25-34),M,2
+25,Young Adults (25-34),F,32
+26,Young Adults (25-34),M,14
+26,Young Adults (25-34),M,4
+27,Young Adults (25-34),F,11
+31,Young Adults (25-34),M,12
+20,Youth (<25),M,9
+35,Adults (35-64),M,24
+56,Adults (35-64),F,13
+17,Youth (<25),F,1
+17,Youth (<25),F,8
+17,Youth (<25),M,1
+54,Adults (35-64),M,5
+38,Adults (35-64),M,6
+27,Young Adults (25-34),M,21
+33,Young Adults (25-34),M,6
+35,Adults (35-64),F,24
+55,Adults (35-64),F,9
+19,Youth (<25),M,18
+18,Youth (<25),F,2
+54,Adults (35-64),M,12
+36,Adults (35-64),F,32
+37,Adults (35-64),F,12
+38,Adults (35-64),F,36
+37,Adults (35-64),F,13
+38,Adults (35-64),F,14
+51,Adults (35-64),M,9
+51,Adults (35-64),F,3
+46,Adults (35-64),F,8
+24,Youth (<25),F,13
+63,Adults (35-64),F,0
+61,Adults (35-64),F,0
+17,Youth (<25),F,0
+20,Youth (<25),F,0
+57,Adults (35-64),M,2
+25,Young Adults (25-34),M,11
+27,Young Adults (25-34),M,11
+45,Adults (35-64),F,10
+48,Adults (35-64),F,24
+22,Youth (<25),M,2
+58,Adults (35-64),M,0
+57,Adults (35-64),F,0
+48,Adults (35-64),M,11
+40,Adults (35-64),M,1
+30,Young Adults (25-34),F,18
+28,Young Adults (25-34),F,26
+62,Adults (35-64),F,0
+37,Adults (35-64),M,18
+40,Adults (35-64),F,1
+30,Young Adults (25-34),F,13
+31,Young Adults (25-34),M,10
+32,Young Adults (25-34),F,6
+58,Adults (35-64),M,9
+57,Adults (35-64),F,9
+18,Youth (<25),M,2
+54,Adults (35-64),M,9
+36,Adults (35-64),F,5
+27,Young Adults (25-34),F,10
+29,Young Adults (25-34),F,21
+18,Youth (<25),F,10
+27,Young Adults (25-34),F,13
+23,Youth (<25),F,21
+17,Youth (<25),F,22
+19,Youth (<25),M,12
+25,Young Adults (25-34),M,22
+41,Adults (35-64),F,0
+42,Adults (35-64),M,14
+22,Youth (<25),F,8
+49,Adults (35-64),F,8
+44,Adults (35-64),F,1
+27,Young Adults (25-34),M,18
+27,Young Adults (25-34),F,26
+36,Adults (35-64),F,2
+54,Adults (35-64),M,1
+30,Young Adults (25-34),F,21
+23,Youth (<25),M,30
+57,Adults (35-64),F,23
+18,Youth (<25),F,8
+20,Youth (<25),M,2
+20,Youth (<25),F,2
+36,Adults (35-64),M,21
+37,Adults (35-64),M,17
+37,Adults (35-64),F,17
+37,Adults (35-64),F,23
+44,Adults (35-64),M,14
+45,Adults (35-64),M,17
+46,Adults (35-64),M,9
+50,Adults (35-64),F,9
+27,Young Adults (25-34),M,2
+39,Adults (35-64),M,3
+35,Adults (35-64),M,11
+40,Adults (35-64),F,2
+58,Adults (35-64),F,1
+58,Adults (35-64),F,2
+30,Young Adults (25-34),M,10
+30,Young Adults (25-34),M,5
+33,Young Adults (25-34),F,13
+35,Adults (35-64),F,6
+21,Youth (<25),F,18
+36,Adults (35-64),F,14
+28,Young Adults (25-34),F,5
+71,Seniors (64+),M,8
+27,Young Adults (25-34),F,12
+24,Youth (<25),M,13
+25,Young Adults (25-34),M,17
+27,Young Adults (25-34),F,27
+26,Young Adults (25-34),M,36
+51,Adults (35-64),M,13
+47,Adults (35-64),F,17
+22,Youth (<25),M,26
+23,Youth (<25),M,2
+25,Young Adults (25-34),M,8
+27,Young Adults (25-34),M,8
+53,Adults (35-64),F,8
+44,Adults (35-64),M,18
+43,Adults (35-64),F,2
+43,Adults (35-64),F,1
+39,Adults (35-64),M,2
+38,Adults (35-64),M,18
+39,Adults (35-64),M,11
+29,Young Adults (25-34),F,18
+43,Adults (35-64),M,0
+33,Young Adults (25-34),M,18
+33,Young Adults (25-34),F,18
+37,Adults (35-64),F,1
+38,Adults (35-64),M,2
+37,Adults (35-64),M,1
+37,Adults (35-64),M,8
+59,Adults (35-64),F,1
+55,Adults (35-64),M,1
+32,Young Adults (25-34),M,14
+63,Adults (35-64),F,17
+21,Youth (<25),F,9
+19,Youth (<25),F,1
+18,Youth (<25),M,8
+19,Youth (<25),M,8
+20,Youth (<25),M,1
+50,Adults (35-64),F,18
+46,Adults (35-64),M,8
+59,Adults (35-64),F,18
+56,Adults (35-64),M,8
+40,Adults (35-64),F,8
+56,Adults (35-64),F,12
+38,Adults (35-64),M,22
+44,Adults (35-64),M,17
+17,Youth (<25),M,25
+20,Youth (<25),F,10
+20,Youth (<25),F,14
+20,Youth (<25),F,13
+35,Adults (35-64),F,30
+36,Adults (35-64),M,17
+62,Adults (35-64),M,28
+39,Adults (35-64),M,24
+59,Adults (35-64),M,15
+58,Adults (35-64),M,13
+28,Young Adults (25-34),M,10
+43,Adults (35-64),M,17
+45,Adults (35-64),M,14
+47,Adults (35-64),M,10
+48,Adults (35-64),M,23
+17,Youth (<25),M,21
+21,Youth (<25),M,13
+35,Adults (35-64),M,42
+60,Adults (35-64),F,27
+56,Adults (35-64),M,22
+46,Adults (35-64),F,13
+56,Adults (35-64),F,3
+26,Young Adults (25-34),F,5
+33,Young Adults (25-34),M,21
+31,Young Adults (25-34),M,18
+39,Adults (35-64),M,12
+46,Adults (35-64),F,21
+51,Adults (35-64),F,12
+60,Adults (35-64),F,31
+30,Young Adults (25-34),M,23
+19,Youth (<25),F,14
+34,Young Adults (25-34),F,17
+20,Youth (<25),F,26
+47,Adults (35-64),F,12
+57,Adults (35-64),F,2
+57,Adults (35-64),M,8
+53,Adults (35-64),M,5
+50,Adults (35-64),F,22
+22,Youth (<25),M,8
+52,Adults (35-64),M,0
+42,Adults (35-64),F,17
+30,Young Adults (25-34),F,22
+34,Young Adults (25-34),F,21
+34,Young Adults (25-34),F,10
+20,Youth (<25),M,29
+28,Young Adults (25-34),F,25
+23,Youth (<25),F,14
+25,Young Adults (25-34),M,23
+25,Young Adults (25-34),F,2
+62,Adults (35-64),M,0
+61,Adults (35-64),F,9
+28,Young Adults (25-34),F,14
+33,Young Adults (25-34),F,21
+20,Youth (<25),F,12
+62,Adults (35-64),F,19
+42,Adults (35-64),F,23
+38,Adults (35-64),F,10
+31,Young Adults (25-34),F,26
+59,Adults (35-64),M,1
+26,Young Adults (25-34),F,31
+51,Adults (35-64),M,7
+39,Adults (35-64),M,21
+28,Young Adults (25-34),M,24
+19,Youth (<25),F,6
+51,Adults (35-64),F,17
+47,Adults (35-64),M,12
+19,Youth (<25),M,24
+26,Young Adults (25-34),M,19
+54,Adults (35-64),F,13
+17,Youth (<25),F,11
+31,Young Adults (25-34),M,27
+22,Youth (<25),F,23
+56,Adults (35-64),F,14
+30,Young Adults (25-34),F,24
+33,Young Adults (25-34),F,24
+18,Youth (<25),M,29
+18,Youth (<25),M,3
+36,Adults (35-64),M,32
+44,Adults (35-64),F,15
+25,Young Adults (25-34),F,44
+53,Adults (35-64),F,5
+29,Young Adults (25-34),M,18
+61,Adults (35-64),F,1
+52,Adults (35-64),F,1
+26,Young Adults (25-34),F,28
+35,Adults (35-64),F,22
+39,Adults (35-64),M,17
+32,Young Adults (25-34),M,24
+41,Adults (35-64),F,6
+41,Adults (35-64),M,5
+37,Adults (35-64),M,31
+18,Youth (<25),M,9
+21,Youth (<25),F,12
+21,Youth (<25),F,5
+50,Adults (35-64),M,5
+31,Young Adults (25-34),F,18
+50,Adults (35-64),F,8
+53,Adults (35-64),M,22
+48,Adults (35-64),M,30
+19,Youth (<25),F,17
+21,Youth (<25),M,22
+54,Adults (35-64),F,22
+18,Youth (<25),F,6
+20,Youth (<25),M,27
+28,Young Adults (25-34),F,23
+17,Youth (<25),M,13
+24,Youth (<25),M,17
+67,Seniors (64+),M,3
+53,Adults (35-64),M,7
+24,Youth (<25),F,26
+44,Adults (35-64),F,12
+32,Young Adults (25-34),M,27
+35,Adults (35-64),M,6
+36,Adults (35-64),M,6
+39,Adults (35-64),F,10
+21,Youth (<25),F,10
+21,Youth (<25),M,14
+62,Adults (35-64),M,9
+40,Adults (35-64),M,7
+29,Young Adults (25-34),F,13
+48,Adults (35-64),M,12
+50,Adults (35-64),F,17
+48,Adults (35-64),F,18
+19,Youth (<25),M,22
+29,Young Adults (25-34),F,32
+72,Seniors (64+),M,24
+30,Young Adults (25-34),M,32
+32,Young Adults (25-34),M,23
+67,Seniors (64+),F,9
+22,Youth (<25),F,6
+21,Youth (<25),F,21
+27,Young Adults (25-34),M,10
+24,Youth (<25),M,21
+44,Adults (35-64),M,23
+23,Youth (<25),F,24
+34,Young Adults (25-34),F,12
+19,Youth (<25),M,10
+35,Adults (35-64),F,14
+19,Youth (<25),F,19
+23,Youth (<25),F,19
+24,Youth (<25),M,23
+43,Adults (35-64),M,12
+51,Adults (35-64),F,0
+33,Young Adults (25-34),F,5
+31,Young Adults (25-34),M,22
+31,Young Adults (25-34),M,28
+36,Adults (35-64),M,12
+19,Youth (<25),F,18
+38,Adults (35-64),F,24
+38,Adults (35-64),M,14
+23,Youth (<25),F,28
+17,Youth (<25),M,24
+17,Youth (<25),F,14
+82,Seniors (64+),F,17
+46,Adults (35-64),F,10
+21,Youth (<25),M,23
+35,Adults (35-64),F,13
+62,Adults (35-64),M,1
+64,Adults (35-64),M,4
+24,Youth (<25),M,26
+64,Adults (35-64),M,3
+33,Young Adults (25-34),F,31
+24,Youth (<25),M,5
+53,Adults (35-64),F,26
+52,Adults (35-64),F,3
+66,Seniors (64+),M,4
+24,Youth (<25),M,6
+47,Adults (35-64),F,33
+55,Adults (35-64),F,14
+24,Youth (<25),F,17
+66,Seniors (64+),F,13
+58,Adults (35-64),F,19
+54,Adults (35-64),M,27
+43,Adults (35-64),M,6
+59,Adults (35-64),F,12
+44,Adults (35-64),F,7
+17,Youth (<25),M,14
+29,Young Adults (25-34),F,30
+71,Seniors (64+),M,13
+66,Seniors (64+),M,1
+42,Adults (35-64),M,8
+49,Adults (35-64),M,27
+29,Young Adults (25-34),M,13
+18,Youth (<25),M,14
+51,Adults (35-64),F,10
+59,Adults (35-64),M,17
+28,Young Adults (25-34),F,31
+50,Adults (35-64),M,18
+59,Adults (35-64),F,3
+17,Youth (<25),F,17
+47,Adults (35-64),F,25
+59,Adults (35-64),M,2
+78,Seniors (64+),M,4
+19,Youth (<25),F,12
+56,Adults (35-64),M,17
+51,Adults (35-64),F,23
+53,Adults (35-64),F,2
+53,Adults (35-64),M,11
+34,Young Adults (25-34),F,23
+61,Adults (35-64),F,3
+27,Young Adults (25-34),M,17
+48,Adults (35-64),F,21
+28,Young Adults (25-34),M,18
+65,Seniors (64+),F,11
+35,Adults (35-64),F,45
+65,Seniors (64+),M,3
+28,Young Adults (25-34),M,23
+28,Young Adults (25-34),F,10
+24,Youth (<25),F,12
+21,Youth (<25),F,22
+21,Youth (<25),M,6
+21,Youth (<25),F,24
+73,Seniors (64+),F,4
+38,Adults (35-64),M,25
+38,Adults (35-64),M,17
+75,Seniors (64+),F,23
+25,Young Adults (25-34),M,26
+60,Adults (35-64),F,5
+73,Seniors (64+),M,5
+30,Young Adults (25-34),M,24
+18,Youth (<25),M,5
+19,Youth (<25),F,24
+86,Seniors (64+),M,5
+22,Youth (<25),M,12
+32,Young Adults (25-34),M,22
+77,Seniors (64+),F,5
+64,Adults (35-64),F,3
+41,Adults (35-64),F,18
+76,Seniors (64+),F,3
+19,Youth (<25),F,22
+38,Adults (35-64),F,17
+41,Adults (35-64),M,19
+41,Adults (35-64),M,23
+60,Adults (35-64),F,3
+27,Young Adults (25-34),F,22
+69,Seniors (64+),F,9
+48,Adults (35-64),F,8
+51,Adults (35-64),M,5
+24,Youth (<25),F,18
+53,Adults (35-64),F,12
+52,Adults (35-64),M,12
+47,Adults (35-64),F,14
+49,Adults (35-64),M,6
+59,Adults (35-64),M,8
+53,Adults (35-64),M,8
+74,Seniors (64+),F,0
+39,Adults (35-64),M,23
+34,Young Adults (25-34),M,24
+43,Adults (35-64),F,10
+53,Adults (35-64),M,13
+51,Adults (35-64),M,23
+51,Adults (35-64),M,6
+43,Adults (35-64),F,15
+24,Youth (<25),M,18
+31,Young Adults (25-34),F,6
+31,Young Adults (25-34),M,13
+28,Young Adults (25-34),M,32
+33,Young Adults (25-34),M,20
+24,Youth (<25),M,27
+41,Adults (35-64),M,21
+44,Adults (35-64),F,6
+34,Young Adults (25-34),M,18
+61,Adults (35-64),F,2
+60,Adults (35-64),M,2
+64,Adults (35-64),F,1
+63,Adults (35-64),M,1
+50,Adults (35-64),M,13
+21,Youth (<25),M,8
+37,Adults (35-64),M,26
+50,Adults (35-64),M,10
+51,Adults (35-64),F,6
+45,Adults (35-64),F,32
+57,Adults (35-64),M,24
+17,Youth (<25),F,24
+17,Youth (<25),M,17
+31,Young Adults (25-34),F,22
+46,Adults (35-64),F,17
+39,Adults (35-64),F,18
+52,Adults (35-64),M,1
+24,Youth (<25),F,22
+18,Youth (<25),M,12
+84,Seniors (64+),F,23
+59,Adults (35-64),M,13
+63,Adults (35-64),F,13
+59,Adults (35-64),M,24
+37,Adults (35-64),M,32
+25,Young Adults (25-34),M,21
+30,Young Adults (25-34),M,7
+31,Young Adults (25-34),F,24
+45,Adults (35-64),F,23
+36,Adults (35-64),F,17
+36,Adults (35-64),M,5
+56,Adults (35-64),M,13
+45,Adults (35-64),M,18
+32,Young Adults (25-34),F,17
+34,Young Adults (25-34),M,10
+47,Adults (35-64),M,26
+49,Adults (35-64),F,10
+65,Seniors (64+),F,10
+35,Adults (35-64),F,23
+21,Youth (<25),M,24
+72,Seniors (64+),F,23
+35,Adults (35-64),F,46
+21,Youth (<25),F,36
+54,Adults (35-64),F,17
+48,Adults (35-64),F,36
+58,Adults (35-64),F,3
+61,Adults (35-64),M,37
+43,Adults (35-64),M,22
+48,Adults (35-64),M,29
+34,Young Adults (25-34),M,7
+31,Young Adults (25-34),M,31
+42,Adults (35-64),M,25
+44,Adults (35-64),F,14
+57,Adults (35-64),F,8
+32,Young Adults (25-34),M,26
+43,Adults (35-64),M,18
+64,Adults (35-64),F,11
+54,Adults (35-64),M,13
+29,Young Adults (25-34),F,23
+52,Adults (35-64),M,13
+45,Adults (35-64),F,13
+48,Adults (35-64),F,13
+26,Young Adults (25-34),F,21
+26,Young Adults (25-34),M,32
+71,Seniors (64+),F,6
+71,Seniors (64+),F,9
+64,Adults (35-64),M,9
+18,Youth (<25),M,24
+19,Youth (<25),F,28
+20,Youth (<25),F,22
+38,Adults (35-64),M,42
+56,Adults (35-64),M,26
+56,Adults (35-64),F,8
+42,Adults (35-64),M,10
+43,Adults (35-64),M,24
+56,Adults (35-64),F,5
+37,Adults (35-64),F,10
+38,Adults (35-64),F,13
+24,Youth (<25),M,7
+17,Youth (<25),F,10
+25,Young Adults (25-34),F,10
+26,Young Adults (25-34),M,23
+33,Young Adults (25-34),F,10
+21,Youth (<25),M,17
+53,Adults (35-64),F,22
+24,Youth (<25),F,24
+67,Seniors (64+),F,11
+31,Young Adults (25-34),M,6
+63,Adults (35-64),F,9
+32,Young Adults (25-34),F,24
+29,Young Adults (25-34),M,26
+63,Adults (35-64),F,8
+61,Adults (35-64),F,8
+57,Adults (35-64),F,18
+39,Adults (35-64),F,14
+55,Adults (35-64),F,32
+55,Adults (35-64),F,12
+38,Adults (35-64),F,23
+62,Adults (35-64),M,2
+50,Adults (35-64),F,27
+36,Adults (35-64),M,26
+53,Adults (35-64),F,3
+55,Adults (35-64),F,10
+17,Youth (<25),F,12
+18,Youth (<25),M,10
+24,Youth (<25),F,15
+18,Youth (<25),F,19
+85,Seniors (64+),M,9
+24,Youth (<25),F,31
+24,Youth (<25),F,29
+37,Adults (35-64),F,6
+30,Young Adults (25-34),M,18
+35,Adults (35-64),M,28
+81,Seniors (64+),F,13
+36,Adults (35-64),M,23
+38,Adults (35-64),F,7
+46,Adults (35-64),F,14
+47,Adults (35-64),M,21
+48,Adults (35-64),F,14
+59,Adults (35-64),F,2
+62,Adults (35-64),M,11
+36,Adults (35-64),F,13
+23,Youth (<25),F,6
+30,Young Adults (25-34),F,19
+33,Young Adults (25-34),F,17
+29,Young Adults (25-34),F,31
+33,Young Adults (25-34),M,10
+22,Youth (<25),F,10
+17,Youth (<25),M,26
+17,Youth (<25),M,8
+36,Adults (35-64),M,25
+75,Seniors (64+),F,12
+51,Adults (35-64),F,22
+51,Adults (35-64),F,26
+61,Adults (35-64),F,22
+31,Young Adults (25-34),F,34
+43,Adults (35-64),F,18
+25,Young Adults (25-34),F,24
+41,Adults (35-64),M,6
+22,Youth (<25),M,29
+36,Adults (35-64),F,7
+42,Adults (35-64),F,24
+57,Adults (35-64),F,12
+36,Adults (35-64),M,24
+64,Adults (35-64),M,13
+63,Adults (35-64),M,14
+32,Young Adults (25-34),F,27
+32,Young Adults (25-34),M,19
+85,Seniors (64+),M,13
+23,Youth (<25),F,13
+65,Seniors (64+),M,2
+39,Adults (35-64),M,26
+48,Adults (35-64),M,26
+52,Adults (35-64),F,17
+25,Young Adults (25-34),F,12
+25,Young Adults (25-34),M,6
+36,Adults (35-64),M,22
+23,Youth (<25),M,19
+27,Young Adults (25-34),F,7
+77,Seniors (64+),F,9
+33,Young Adults (25-34),F,7
+18,Youth (<25),M,17
+35,Adults (35-64),M,30
+22,Youth (<25),M,6
+65,Seniors (64+),M,8
+55,Adults (35-64),M,2
+55,Adults (35-64),F,8
+51,Adults (35-64),F,14
+43,Adults (35-64),F,22
+44,Adults (35-64),M,24
+50,Adults (35-64),M,28
+24,Youth (<25),F,23
+62,Adults (35-64),F,12
+43,Adults (35-64),M,23
+54,Adults (35-64),M,28
+36,Adults (35-64),F,26
+41,Adults (35-64),M,22
+46,Adults (35-64),F,12
+49,Adults (35-64),F,6
+50,Adults (35-64),F,15
+38,Adults (35-64),M,10
+31,Young Adults (25-34),F,21
+32,Young Adults (25-34),F,31
+23,Youth (<25),M,7
+22,Youth (<25),M,27
+62,Adults (35-64),F,23
+60,Adults (35-64),M,24
+56,Adults (35-64),M,10
+72,Seniors (64+),F,13
+22,Youth (<25),M,15
+68,Seniors (64+),F,1
+65,Seniors (64+),F,2
+38,Adults (35-64),F,18
+61,Adults (35-64),M,2
+40,Adults (35-64),M,17
+46,Adults (35-64),M,27
+48,Adults (35-64),F,6
+80,Seniors (64+),F,10
+40,Adults (35-64),M,26
+26,Young Adults (25-34),M,6
+66,Seniors (64+),F,0
+66,Seniors (64+),F,3
+38,Adults (35-64),M,23
+27,Young Adults (25-34),F,17
+31,Young Adults (25-34),F,32
+31,Young Adults (25-34),M,29
+20,Youth (<25),F,29
+22,Youth (<25),M,24
+53,Adults (35-64),F,32
+50,Adults (35-64),M,14
+19,Youth (<25),F,25
+61,Adults (35-64),M,3
+19,Youth (<25),F,21
+24,Youth (<25),F,7
+49,Adults (35-64),F,26
+53,Adults (35-64),M,6
+47,Adults (35-64),M,23
+47,Adults (35-64),F,21
+30,Young Adults (25-34),M,22
+36,Adults (35-64),M,15
+39,Adults (35-64),F,7
+41,Adults (35-64),M,10
+32,Young Adults (25-34),F,29
+33,Young Adults (25-34),M,24
+22,Youth (<25),M,22
+62,Adults (35-64),F,5
+54,Adults (35-64),F,25
+20,Youth (<25),M,26
+27,Young Adults (25-34),M,31
+51,Adults (35-64),F,2
+70,Seniors (64+),M,4
+67,Seniors (64+),F,1
+52,Adults (35-64),M,6
+25,Young Adults (25-34),F,7
+42,Adults (35-64),F,18
+54,Adults (35-64),F,18
+25,Young Adults (25-34),F,19
+29,Young Adults (25-34),M,24
+32,Young Adults (25-34),F,19
+31,Young Adults (25-34),F,23
+34,Young Adults (25-34),M,31
+21,Youth (<25),F,25
+21,Youth (<25),F,7
+61,Adults (35-64),F,36
+37,Adults (35-64),M,28
+64,Adults (35-64),F,14
+32,Young Adults (25-34),M,25
+33,Young Adults (25-34),M,17
+18,Youth (<25),F,17
+20,Youth (<25),M,18
+44,Adults (35-64),F,25
+25,Young Adults (25-34),M,25
+26,Young Adults (25-34),M,31
+39,Adults (35-64),M,14
+29,Young Adults (25-34),M,27
+30,Young Adults (25-34),F,32
+36,Adults (35-64),F,10
+24,Youth (<25),M,32
+24,Youth (<25),F,21
+26,Young Adults (25-34),F,22
+28,Young Adults (25-34),M,36
+28,Young Adults (25-34),F,15
+27,Young Adults (25-34),M,22
+66,Seniors (64+),M,3
+48,Adults (35-64),M,10
+23,Youth (<25),M,18
+49,Adults (35-64),M,35
+67,Seniors (64+),M,2
+34,Young Adults (25-34),M,26
+66,Seniors (64+),M,9
+20,Youth (<25),M,17
+61,Adults (35-64),M,17
+60,Adults (35-64),F,17
+55,Adults (35-64),F,27
+55,Adults (35-64),M,12
+38,Adults (35-64),F,25
+52,Adults (35-64),M,31
+39,Adults (35-64),F,21
+27,Young Adults (25-34),F,14
+45,Adults (35-64),F,12
+24,Youth (<25),M,47
+31,Young Adults (25-34),M,47
+53,Adults (35-64),F,36
+48,Adults (35-64),M,6
+59,Adults (35-64),F,26
+37,Adults (35-64),M,6
+36,Adults (35-64),F,24
+31,Young Adults (25-34),F,25
+32,Young Adults (25-34),M,18
+64,Adults (35-64),M,24
+58,Adults (35-64),M,6
+44,Adults (35-64),F,13
+75,Seniors (64+),M,9
+74,Seniors (64+),M,9
+22,Youth (<25),M,28
+23,Youth (<25),F,23
+51,Adults (35-64),M,27
+70,Seniors (64+),M,13
+31,Young Adults (25-34),M,48
+44,Adults (35-64),M,10
+29,Young Adults (25-34),M,19
+17,Youth (<25),M,10
+34,Young Adults (25-34),F,19
+23,Youth (<25),M,29
+64,Adults (35-64),F,0
+19,Youth (<25),M,20
+39,Adults (35-64),F,6
+29,Young Adults (25-34),F,25
+67,Seniors (64+),M,14
+52,Adults (35-64),F,22
+58,Adults (35-64),M,3
+33,Young Adults (25-34),M,27
+36,Adults (35-64),M,18
+38,Adults (35-64),M,32
+35,Adults (35-64),M,26
+50,Adults (35-64),M,26
+39,Adults (35-64),M,27
+35,Adults (35-64),M,25
+20,Youth (<25),M,6
+46,Adults (35-64),F,49
+44,Adults (35-64),F,27
+58,Adults (35-64),F,26
+65,Seniors (64+),M,9
+72,Seniors (64+),F,4
+56,Adults (35-64),M,1
+54,Adults (35-64),M,8
+18,Youth (<25),F,14
+24,Youth (<25),F,36
+46,Adults (35-64),F,6
+64,Adults (35-64),M,22
+24,Youth (<25),F,10
+47,Adults (35-64),M,24
+20,Youth (<25),F,23
+18,Youth (<25),F,24
+19,Youth (<25),M,27
+51,Adults (35-64),M,18
+40,Adults (35-64),F,6
+28,Young Adults (25-34),M,44
+18,Youth (<25),F,21
+35,Adults (35-64),M,27
+41,Adults (35-64),M,24
+17,Youth (<25),F,18
+46,Adults (35-64),F,22
+29,Young Adults (25-34),F,36
+33,Young Adults (25-34),M,30
+33,Young Adults (25-34),M,36
+41,Adults (35-64),F,26
+19,Youth (<25),F,26
+56,Adults (35-64),M,18
+54,Adults (35-64),F,2
+41,Adults (35-64),F,27
+31,Young Adults (25-34),F,31
+41,Adults (35-64),M,29
+27,Young Adults (25-34),M,37
+48,Adults (35-64),F,50
+32,Young Adults (25-34),M,51
+35,Adults (35-64),F,27
+43,Adults (35-64),F,28
+54,Adults (35-64),F,10
+24,Youth (<25),F,30
+46,Adults (35-64),F,28
+46,Adults (35-64),M,7
+23,Youth (<25),M,17
+46,Adults (35-64),M,10
+19,Youth (<25),F,10
+55,Adults (35-64),M,31
+37,Adults (35-64),M,21
+38,Adults (35-64),M,30
+17,Youth (<25),F,40
+23,Youth (<25),F,12
+55,Adults (35-64),M,18
+39,Adults (35-64),M,31
+27,Young Adults (25-34),M,7
+42,Adults (35-64),M,36
+54,Adults (35-64),F,14
+28,Young Adults (25-34),F,7
+22,Youth (<25),M,19
+28,Young Adults (25-34),M,28
+18,Youth (<25),M,23
+26,Young Adults (25-34),F,24
+17,Youth (<25),F,26
+29,Young Adults (25-34),F,24
+30,Young Adults (25-34),M,27
+39,Adults (35-64),F,19
+29,Young Adults (25-34),M,23
+69,Seniors (64+),M,8
+17,Youth (<25),M,31
+39,Adults (35-64),F,32
+28,Young Adults (25-34),F,28
+40,Adults (35-64),F,26
+54,Adults (35-64),M,18
+25,Young Adults (25-34),F,20
+35,Adults (35-64),F,18
+49,Adults (35-64),F,18
+22,Youth (<25),M,20
+26,Young Adults (25-34),M,10
+56,Adults (35-64),F,24
+44,Adults (35-64),M,29
+56,Adults (35-64),M,3
+47,Adults (35-64),F,26
+52,Adults (35-64),M,2
+70,Seniors (64+),M,2
+62,Adults (35-64),M,6
+37,Adults (35-64),M,7
+59,Adults (35-64),M,27
+29,Young Adults (25-34),F,7
+66,Seniors (64+),F,4
+40,Adults (35-64),F,52
+70,Seniors (64+),F,10
+21,Youth (<25),F,29
+71,Seniors (64+),M,9
+20,Youth (<25),M,10
+49,Adults (35-64),M,5
+50,Adults (35-64),M,22
+62,Adults (35-64),M,13
+17,Youth (<25),F,23
+61,Adults (35-64),M,7
+39,Adults (35-64),F,27
+17,Youth (<25),M,6
+24,Youth (<25),F,19
+52,Adults (35-64),F,13
+61,Adults (35-64),M,23
+34,Young Adults (25-34),F,22
+86,Seniors (64+),F,23
+81,Seniors (64+),F,12
+60,Adults (35-64),F,21
+54,Adults (35-64),F,23
+17,Youth (<25),F,32
+35,Adults (35-64),M,14
+55,Adults (35-64),M,13
+36,Adults (35-64),M,36
+38,Adults (35-64),M,27
+38,Adults (35-64),F,22
+48,Adults (35-64),F,28
+48,Adults (35-64),F,17
+17,Youth (<25),F,37
+48,Adults (35-64),M,18
+53,Adults (35-64),M,24
+45,Adults (35-64),F,21
+49,Adults (35-64),F,31
+50,Adults (35-64),M,15
+50,Adults (35-64),F,12
+60,Adults (35-64),F,12
+20,Youth (<25),M,5
+70,Seniors (64+),F,9
+58,Adults (35-64),F,8
+53,Adults (35-64),F,6
+55,Adults (35-64),M,10
+17,Youth (<25),M,12
+17,Youth (<25),M,22
+17,Youth (<25),F,19
+51,Adults (35-64),M,17
+47,Adults (35-64),M,27
+49,Adults (35-64),M,24
+42,Adults (35-64),M,21
+33,Young Adults (25-34),M,29
+60,Adults (35-64),F,18
+44,Adults (35-64),M,5
+44,Adults (35-64),F,19
+55,Adults (35-64),M,20
+25,Young Adults (25-34),F,26
+60,Adults (35-64),F,37
+60,Adults (35-64),F,6
+55,Adults (35-64),F,22
+38,Adults (35-64),M,7
+64,Adults (35-64),F,22
+21,Youth (<25),M,34
+60,Adults (35-64),M,17
+34,Young Adults (25-34),M,25
+22,Youth (<25),F,12
+22,Youth (<25),F,22
+17,Youth (<25),M,23
+67,Seniors (64+),F,3
+23,Youth (<25),M,21
+34,Young Adults (25-34),M,14
+33,Young Adults (25-34),F,19
+19,Youth (<25),F,31
+63,Adults (35-64),M,23
+42,Adults (35-64),M,27
+70,Seniors (64+),M,6
+68,Seniors (64+),F,7
+63,Adults (35-64),F,27
+35,Adults (35-64),M,23
+56,Adults (35-64),M,23
+55,Adults (35-64),M,5
+52,Adults (35-64),F,21
+47,Adults (35-64),F,13
+81,Seniors (64+),M,23
+42,Adults (35-64),F,28
+53,Adults (35-64),F,10
+44,Adults (35-64),M,30
+48,Adults (35-64),F,22
+49,Adults (35-64),F,36
+50,Adults (35-64),F,10
+37,Adults (35-64),F,26
+26,Young Adults (25-34),M,27
+79,Seniors (64+),M,9
+24,Youth (<25),F,51
+64,Adults (35-64),F,9
+63,Adults (35-64),M,17
+84,Seniors (64+),M,6
+62,Adults (35-64),M,7
+20,Youth (<25),F,25
+53,Adults (35-64),F,18
+49,Adults (35-64),M,26
+64,Adults (35-64),F,2
+79,Seniors (64+),M,4
+40,Adults (35-64),M,25
+41,Adults (35-64),M,32
+44,Adults (35-64),F,10
+70,Seniors (64+),M,11
+20,Youth (<25),M,33
+34,Young Adults (25-34),F,13
+33,Young Adults (25-34),M,25
+19,Youth (<25),M,21
+58,Adults (35-64),F,13
+54,Adults (35-64),M,19
+54,Adults (35-64),M,17
+54,Adults (35-64),F,36
+40,Adults (35-64),M,42
+52,Adults (35-64),F,23
+49,Adults (35-64),M,30
+22,Youth (<25),M,37
+64,Adults (35-64),M,8
+63,Adults (35-64),M,22
+62,Adults (35-64),M,21
+56,Adults (35-64),F,21
+45,Adults (35-64),M,7
+20,Youth (<25),F,6
+21,Youth (<25),M,10
+54,Adults (35-64),F,21
+23,Youth (<25),M,12
+17,Youth (<25),F,5
+47,Adults (35-64),M,30
+68,Seniors (64+),M,4
+32,Young Adults (25-34),M,30
+64,Adults (35-64),F,17
+34,Young Adults (25-34),F,28
+35,Adults (35-64),F,32
+63,Adults (35-64),M,13
+60,Adults (35-64),F,13
+59,Adults (35-64),F,10
+55,Adults (35-64),M,17
